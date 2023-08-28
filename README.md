@@ -5,14 +5,12 @@ Bem-vindo à Pokédex, uma aplicação web que permite explorar e conhecer o mun
 ## Funcionalidades
 
 - Lista de Pokémon: Exibe uma lista de Pokémon com imagens e nomes para uma rápida visualização.
-- Detalhes do Pokémon: Ao clicar em um Pokémon na lista, são exibidas informações detalhadas, como tipo, habilidades, altura, peso e estatísticas.
 
 ## Tecnologias Utilizadas
 
 - **HTML**: Estruturação da página web.
 - **CSS**: Estilização e aparência visual da aplicação.
 - **JavaScript**: Interação dinâmica com os elementos da página e chamadas à API.
-- **Pokémon API**: Uma API REST que fornece informações detalhadas sobre os Pokémon.
 
 ## Como Usar
 
@@ -39,9 +37,7 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver melhorias
 ## Sobre
 
 Projeto indicado como desafio pelo Bootcampo da DIO para construção de uma Pokédex com JS e realizado por Thaila Marani.
+
 Github: https://github.com/thailamarani
+
 LinkedIn: https://www.linkedin.com/in/thaila-marani
-
----
-
-Divirta-se explorando o mundo Pokémon com a nossa Pokédex! Se você é um fã de Pokémon, esta aplicação é perfeita para aprender mais sobre seus Pokémon favoritos.
