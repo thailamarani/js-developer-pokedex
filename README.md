@@ -1,6 +1,6 @@
 # Pokédex - Explorando o Mundo Pokémon
 
-Bem-vindo à Pokédex, uma aplicação web que permite explorar e conhecer o mundo dos Pokémon! Esta aplicação utiliza JavaScript, HTML e CSS para criar uma interface interativa que consome dados de uma API REST para exibir informações detalhadas sobre diversos Pokémon.
+Bem-vindo à Pokédex, uma aplicação web que permite explorar e conhecer o mundo dos Pokémon! Esta aplicação utiliza JavaScript, HTML e CSS.
 
 ## Funcionalidades
 
